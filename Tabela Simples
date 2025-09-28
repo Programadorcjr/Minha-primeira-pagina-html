@@ -1,0 +1,19 @@
+<!Doctype html >
+<html>
+<body>
+<table>
+	<tr>
+		<th>Smith</th>
+		<th>Html</th>
+		<td>9</td>
+	</tr>
+
+	<tr>
+		<th>Sunday</th>
+		<th>Javascript</th>
+		<td>10</td>
+	</tr>
+
+</table>
+</body>
+</html>
