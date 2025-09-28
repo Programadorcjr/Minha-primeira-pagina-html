@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title> Uma Página Simples</title>
+</head>
+<body> 
+<b> Bem vindo</b> 
+<p>a minha pagina simples. </p>
+<p>Esta é uma pagina HTML simples.</p>
+<p><i> este texto esta no formato italico</i>.</p>
+<p>Podemos modificar o conteúdo!</p>
+</body>
+	
+</html>
