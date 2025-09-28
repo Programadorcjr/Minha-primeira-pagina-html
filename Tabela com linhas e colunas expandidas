@@ -1,0 +1,34 @@
+<Doctype html>
+<html>
+<body>
+	<h2> Tabela Simples</h2>
+	<!-- Tabela com Colspan -->
+<table width="150" border="2">
+<tr>
+	<th>Aluno</th>
+	<th colspan="2">Disciplina</th>
+</tr>
+<tr> 
+	<th> Alex</th>
+	<td>HTML</td>
+	<td>Ambiente Web</td>
+</tr>
+</table>
+
+<!-- Tabela com Rowspan -->
+<h2> Tabela Simples</h2>
+<table width="100" border="1">
+<tr> 
+	<td>Aluno</td>
+	<td Rowspan="2">Disciplina</td>
+</tr>
+<tr>
+
+	<td>Alex</td>
+	<td>HTML</td>
+	<td>Ambiente Web</td>
+</tr>
+</table
+
+</body>
+</html>
