@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+<body>	
+
+<h2>Tabela com cabeçalho e roda pé</h2>
+
+<table width="200" border="2">
+
+<tr>
+	<th>Mês</th>
+	<th>Horas/Aulas</th>
+</tr>
+<tbody>
+<tr>
+	<td>Junho</td>
+	<th>50</th>
+</tr>
+<tr>
+	<td>Julho</td>
+	<th>50</th>
+</tr>
+</tbody>	
+<tfoot>
+<tr>
+	<th>Total</th>
+	<th>100</th>
+</tr>
+</tfoot>
+</table>
+</body>
+</html>
